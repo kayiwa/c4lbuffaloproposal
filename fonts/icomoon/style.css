@@ -2517,9 +2517,6 @@
 .icon-archive2:before {
   content: "\e149";
 }
-.icon-arrow_back:before {
-  content: "\e5c4";
-}
 .icon-arrow_downward:before {
   content: "\e5db";
 }
@@ -2531,9 +2528,6 @@
 }
 .icon-arrow_drop_up:before {
   content: "\e5c7";
-}
-.icon-arrow_forward:before {
-  content: "\e5c8";
 }
 .icon-arrow_upward:before {
   content: "\e5d8";
